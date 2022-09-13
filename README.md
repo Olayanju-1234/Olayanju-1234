@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on basic node app projects
 - 📫 How to reach me - email @horlarhyanjuhjoseph@gmail.com
 
-![image](https://user-images.githubusercontent.com/49444453/189893687-4665ba18-d473-4cb2-8990-eed9cf4e2238.png)
+<a href="https://app.daily.dev/BigJoe"><img src="https://api.daily.dev/devcards/fa5f9a0c2a9645029f55f24b4c6016bd.png?r=ixp" width="400" alt="Joseph Olayanju's Dev Card"/></a>
 
 <!---
 Olayanju-1234/Olayanju-1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
