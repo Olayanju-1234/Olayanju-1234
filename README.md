@@ -4,7 +4,7 @@ Joseph Olayanju.
 NodeJs | Express | MongoDb.
 Contributing to Open source.
 
-Open to collaboration. Link up <a heref=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+Open to collaboration. Link up <a heref=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="40" height="40"/></a>
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayanju-1234&show_icons=true&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 
