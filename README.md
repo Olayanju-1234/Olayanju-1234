@@ -1,9 +1,10 @@
+About Me
 Joseph Olayanju.
 
 NodeJs | Express | MongoDb.
 Contributing to Open source.
 
-Open to collaboration. Link up @JosephOlayanjuO@gmail.com
+Open to collaboration. Link up <a href=""><i class="devicon-twitter-original colored"></i></a>
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayanju-1234&show_icons=true&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 
@@ -14,10 +15,11 @@ Open to collaboration. Link up @JosephOlayanjuO@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  
+[![Joe's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 </p>
 
 
-[![Joe's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 
 [![Joe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigJoe01&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 
