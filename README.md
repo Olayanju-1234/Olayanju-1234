@@ -1,4 +1,4 @@
-About Me
+<h2>About Me</h2>
 Joseph Olayanju.
 
 NodeJs | Express | MongoDb.
@@ -18,6 +18,9 @@ Link up: <a heref="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsd
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   
 [![Joe's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark" />
+</a>
 </p>
 
 
