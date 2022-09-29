@@ -16,18 +16,15 @@ Link up: <a heref="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsd
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-  
-[![Joe's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/olayanju-1234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark" />
 </a>
 </p>
 
-
-
-[![Joe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BigJoe01&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
-
-[![Joe's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=olayanju-1234&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
+<a href="https://github.com/olayanju-1234">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olayanju-1234&theme=onedark" />
+</a>
 <!---
 Olayanju-1234/Olayanju-1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
