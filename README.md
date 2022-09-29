@@ -16,11 +16,13 @@ Link up: <a heref="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsd
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="50" height="50" />
 </p>
 
 <a href="https://github.com/olayanju-1234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olayanju-1234&layout=compact&theme=onedark" />
 </a>
+<br>
 
 <a href="https://github.com/olayanju-1234">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olayanju-1234&theme=onedark" />
