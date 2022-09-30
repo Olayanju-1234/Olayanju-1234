@@ -1,8 +1,8 @@
 <h2>About Me</h2>
-Joseph Olayanju.
+My name is Joseph Olayanju. A Backend developer working with tools like NodeJs, Express, MongoDB. I am very passionate in solving real life problems with the use of computer. I contribute to Open Source.
 
-NodeJs | Express | MongoDb.
-Contributing to Open source.
+
+
 
 Open to collaboration.
 Link up: <a heref="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="15"/></a> <a heref="https://www.linkedin.com/in/joseph-olayanju-8771b810b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="twitter" width="20" height="15"/></a>
