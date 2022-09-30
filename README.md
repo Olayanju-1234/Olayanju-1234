@@ -1,14 +1,18 @@
 <h2>About Me</h2>
 My name is Joseph Olayanju. A Backend developer working with tools like NodeJs, Express, MongoDB. I am very passionate in solving real life problems with the use of computer. I contribute to Open Source.
 
-Open to collaboration. Connect via 👉
+I'm open to paid/unpaid internship roles
+<h2>👨‍💻 Connect via </h2> 
+
 <a href="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="15"/></a> <a href="https://www.linkedin.com/in/joseph-olayanju-8771b810b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="twitter" width="30" height="25" background-color="white"/></a>
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayanju-1234&show_icons=true&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
 
+
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
+<img src="https://cdn.jttsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
