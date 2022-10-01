@@ -7,6 +7,8 @@ I'm open to paid/unpaid internship roles
 <a href="https://twitter.com/JosephOlayanju"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" width="20" height="15"/></a> <a href="https://www.linkedin.com/in/joseph-olayanju-8771b810b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="twitter" width="30" height="25" background-color="white"/></a>
 
 
+[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayanju-1234&show_icons=true&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
