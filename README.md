@@ -4,7 +4,10 @@ My name is Joseph Olayanju. A Backend developer working with tools like NodeJs, 
 I'm open to paid/unpaid internship roles
 <h2>👨‍💻 Connect via </h2> 
 
-<a href="https://github.com/olayanju-1234"><img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/joseph-olayanju-8771b810b/"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/JosephOlayanju"><img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="horlarhyanjuhjoseph@gmail.com"><img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/olayanju-1234"><img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/joseph-olayanju-8771b810b/"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://twitter.com/JosephOlayanju"><img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="/horlarhyanjuhjoseph@gmail.com"><img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
  <br /><br />
 
