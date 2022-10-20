@@ -27,9 +27,9 @@ My name is Joseph Olayanju. A Backend developer working with tools like NodeJs, 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  
- <br />
+ <br>
 
-<h2>I am listening to :</h2>
+<h2>I am listening to :</h2><br>
 <a href="https://open.spotify.com/playlist/37i9dQZF1EuRq1vA84Xzr0?si=790ba7c3c3dd406d"><img align="center" alt="medium" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 
 
