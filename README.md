@@ -11,8 +11,6 @@ I'm open to paid/unpaid internship roles
   
  <br /><br />
 
-[![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=olayanju-1234&show_icons=true&theme=onedark)](https://github.com/olayanju-1234/github-readme-stats)
-
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
