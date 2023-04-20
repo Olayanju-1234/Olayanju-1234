@@ -8,9 +8,14 @@ Thanks for stopping by, and feel free to check out my repositories to see some o
 
 Here are some of the projects I've worked on recently:
 
-- [Shopping API](https://github.com/olayanju-1234/shopping) - An e-commerce platform built with Node.js.
-- [CLI](https://github.com/olayanju-1234/shopping) - An e-commerce platform built with React and Node.js.
-- [MyBook](https://github.com/olayanju-1234/shopping) - A mobile app for tracking fitness goals.
+- [Shopping API](https://github.com/olayanju-1234/shopping) - An e-commerce api built with Node.js.
+- [CLI](https://github.com/olayanju-1234/cli) - olayanju-joe-cli is a Node.js CLI app that automates the generation of Now configuration for web applications.
+- [MyBook](https://github.com/olayanju-1234/mybook) - Mybook is a Node.js and Express.js web app with MongoDB, including OAuth authentication and CRUD functionality for user-generated content.
+
+## My Data Structures and Algorithms Repo
+
+Check out my [DSA repo](https://github.com/Olayanju-1234/dsa) for code implementations of various data structures and algorithms, as well as practice problems and solutions.
+
 
 ## Skills
 
@@ -46,8 +51,3 @@ When I'm not coding, I enjoy:
 - Watching football
 - Reading books (both fiction and non-fiction)
 - Cooking and trying out new recipes
-
-
-## License
-
-This profile README is licensed under the [MIT License](LICENSE).
