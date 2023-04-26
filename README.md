@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! My name is Jeosph Olayanju, and I'm a Node.js developer. I have experience working with technologies such as Node.js, MongoDB, Express, Git, and JavaScript.
+Hi there! My name is Joseph Olayanju, and I'm a Node.js developer. I have experience working with technologies such as Node.js, MongoDB, Express, Git, and JavaScript.
 
 I'm passionate about learning and exploring new technologies, and I'm always looking for ways to improve my skills as a developer. Currently, I'm focused on improving my understanding of data structures and algorithms through self-study.
 
