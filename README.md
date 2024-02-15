@@ -25,9 +25,9 @@ Here are some of the languages and technologies that I work with:
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="40" height="40"/> 
-  <img src="  https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typesrcipt" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="60" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typesrcipt" width="60" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
 </p>
