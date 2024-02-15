@@ -1,16 +1,16 @@
 ## About Me
 
-Hi there! My name is Joseph Olayanju, and I'm a Node.js developer. I have experience working with technologies such as Node.js, MongoDB, Express, Git, and JavaScript.
+Hi there! My name is Joseph Olayanju, and I'm a Backend Developer (NodeJs). I am proficient in Javascript/Typescript.
 
-I'm passionate about learning and exploring new technologies, and I'm always looking for ways to improve my skills as a developer. Currently, I'm focused on improving my understanding of data structures and algorithms through self-study.
+I'm passionate about learning and exploring new technologies, and I'm always looking for ways to improve my skills as a developer. 
 
 Thanks for stopping by, and feel free to check out my repositories to see some of my past projects
 
 Here are some of the projects I've worked on recently:
 
 - [Shopping API](https://github.com/olayanju-1234/shopping) - An e-commerce api built with Node.js.
-- [CLI](https://github.com/olayanju-1234/cli) - olayanju-joe-cli is a Node.js CLI app that automates the generation of Now configuration for web applications.
-- [MyBook](https://github.com/olayanju-1234/mybook) - Mybook is a Node.js and Express.js web app with MongoDB, including OAuth authentication and CRUD functionality for user-generated content.
+- [Scaffold-Express](https://github.com/Olayanju-1234/Scaffold-Express) - This is a simple scaffold for an Express app. It includes basic folders and files to get started with an Express app
+- [ReadIdea](https://github.com/ReadIdeas/readIdea-backend) - ReadIdea project is a collaborative project developed using NodeJS for Backend is designed to foster a reading community among GenZs (development)
 
 ## My Data Structures and Algorithms Repo
 
@@ -19,12 +19,15 @@ Check out my [DSA repo](https://github.com/Olayanju-1234/dsa) for code implement
 
 ## Skills
 
-Here are some of the technologies and tools that I work with:
+Here are some of the languages and technologies that I work with:
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="40" height="40"/> 
+  <img src="  https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typesrcipt" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
 </p>
