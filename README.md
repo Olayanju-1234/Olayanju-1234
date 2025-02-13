@@ -9,13 +9,9 @@ Thanks for stopping by, and feel free to check out my repositories to see some o
 Here are some of the projects I've worked on recently:
 
 - [Shopping API](https://github.com/olayanju-1234/shopping) - An e-commerce api built with Node.js.
+- [Shopping API](https://github.com/olayanju-1234/rate-limiter) - A distributed rate limiter built with TypeScript and Redis. It uses a fixed window algorithm with atomic operations powered by Lua scripts. Perfect for API rate limiting in scalable applications.
 - [Scaffold-Express](https://github.com/Olayanju-1234/Scaffold-Express) - This is a simple scaffold for an Express app. It includes basic folders and files to get started with an Express app
 - [ReadIdea](https://github.com/ReadIdeas/readIdea-backend) - ReadIdea project is a collaborative project developed using NodeJS for Backend is designed to foster a reading community among GenZs (development)
-
-## My Data Structures and Algorithms Repo
-
-Check out my [DSA repo](https://github.com/Olayanju-1234/dsa) for code implementations of various data structures and algorithms, as well as practice problems and solutions.
-
 
 ## Skills
 
@@ -26,7 +22,6 @@ Here are some of the languages and technologies that I work with:
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgres" width="60" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" alt="sequelize" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typesrcipt" width="60" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
@@ -39,7 +34,7 @@ If you'd like to get in touch with me, here are a few ways to do so:
 
 <p align="left">
   <a href="mailto:horlarhyanjuhjoseph@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email-sign.png" alt="Email" width="40" height="40"/></a>
-  <a href="https://twitter.com/josepholayanju" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://x/josepholayanju" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/joseph-olayanju/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
