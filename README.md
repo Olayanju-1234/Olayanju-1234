@@ -9,7 +9,7 @@ Thanks for stopping by, and feel free to check out my repositories to see some o
 Here are some of the projects I've worked on recently:
 
 - [Shopping API](https://github.com/olayanju-1234/shopping) - An e-commerce api built with Node.js.
-- [Shopping API](https://github.com/olayanju-1234/rate-limiter) - A distributed rate limiter built with TypeScript and Redis. It uses a fixed window algorithm with atomic operations powered by Lua scripts. Perfect for API rate limiting in scalable applications.
+- [Rate Limiter](https://github.com/olayanju-1234/rate-limiter) - A distributed rate limiter built with TypeScript and Redis. It uses a fixed window algorithm with atomic operations powered by Lua scripts. Perfect for API rate limiting in scalable applications.
 - [Scaffold-Express](https://github.com/Olayanju-1234/Scaffold-Express) - This is a simple scaffold for an Express app. It includes basic folders and files to get started with an Express app
 - [ReadIdea](https://github.com/ReadIdeas/readIdea-backend) - ReadIdea project is a collaborative project developed using NodeJS for Backend is designed to foster a reading community among GenZs (development)
 
